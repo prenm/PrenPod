@@ -10,7 +10,8 @@ When the file finishes downloading, open it. If Android asks, allow installs fro
 
 | Revision | Download | What changed |
 |---|---|---|
-| r10 (latest) | [PrenPod-r10.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r10.apk) | Splash screen: nothing covers the picture while the library loads. Progress is a hair-thin line along the very bottom edge. |
+| r11 (latest) | [PrenPod-r11.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r11.apk) | New menu: Main menu is Music, Settings, Now Playing. Music is Playlists, Songs, Search. Leaner Settings and Advanced. Click Wheel Sound and Sensitivity moved to Settings. Rating page removed from Now Playing. New Now Playing option: Album Art (Original or Big). |
+| r10 | [PrenPod-r10.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r10.apk) | Splash screen: nothing covers the picture while the library loads. Progress is a hair-thin line along the very bottom edge. |
 | r9 | [PrenPod-r9.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r9.apk) | Fix Album Art is now fast: it checks several songs at once with Deezer (about 8 a second), so a whole library takes a few minutes. MusicBrainz is only used for the few songs Deezer cannot place. |
 | r8 | [PrenPod-r8.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r8.apk) | Fix Album Art: identifies each song on MusicBrainz, finds the right cover (Cover Art Archive, then iTunes, then Deezer), shows a review list, then fixes tags and renames files to "Artist - Title". |
 | r7 | [PrenPod-r7.apk](https://github.com/prenm/PrenPod/raw/main/PrenPod-r7.apk) | The loading progress is now one small line at the bottom, so the splash screen stays fully visible. Intro text moved up slightly. |
